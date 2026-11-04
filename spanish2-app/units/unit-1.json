@@ -1,0 +1,711 @@
+{
+ "title": "Unidad 1: De compras (pretérito, objetos indirectos y demostrativos)",
+ "vocab": [
+  {
+   "es": "la tienda",
+   "en": "store"
+  },
+  {
+   "es": "el centro comercial",
+   "en": "mall"
+  },
+  {
+   "es": "el mercado",
+   "en": "market"
+  },
+  {
+   "es": "la ropa",
+   "en": "clothes"
+  },
+  {
+   "es": "la camisa",
+   "en": "shirt"
+  },
+  {
+   "es": "la camiseta",
+   "en": "T-shirt"
+  },
+  {
+   "es": "los pantalones",
+   "en": "pants"
+  },
+  {
+   "es": "la falda",
+   "en": "skirt"
+  },
+  {
+   "es": "el vestido",
+   "en": "dress"
+  },
+  {
+   "es": "la chaqueta",
+   "en": "jacket"
+  },
+  {
+   "es": "el abrigo",
+   "en": "coat"
+  },
+  {
+   "es": "los zapatos",
+   "en": "shoes"
+  },
+  {
+   "es": "las botas",
+   "en": "boots"
+  },
+  {
+   "es": "el sombrero",
+   "en": "hat"
+  },
+  {
+   "es": "el regalo",
+   "en": "gift"
+  },
+  {
+   "es": "el precio",
+   "en": "price"
+  },
+  {
+   "es": "la talla",
+   "en": "size"
+  },
+  {
+   "es": "la oferta",
+   "en": "sale"
+  },
+  {
+   "es": "el dinero",
+   "en": "money"
+  },
+  {
+   "es": "el efectivo",
+   "en": "cash"
+  },
+  {
+   "es": "la tarjeta de crédito",
+   "en": "credit card"
+  },
+  {
+   "es": "el dependiente",
+   "en": "salesclerk"
+  },
+  {
+   "es": "barato",
+   "en": "cheap"
+  },
+  {
+   "es": "caro",
+   "en": "expensive"
+  },
+  {
+   "es": "probarse",
+   "en": "to try on"
+  },
+  {
+   "es": "costar",
+   "en": "to cost"
+  },
+  {
+   "es": "gastar",
+   "en": "to spend"
+  },
+  {
+   "es": "ahorrar",
+   "en": "to save"
+  },
+  {
+   "es": "regalar",
+   "en": "to give (as a gift)"
+  },
+  {
+   "es": "mostrar",
+   "en": "to show"
+  },
+  {
+   "es": "prestar",
+   "en": "to lend"
+  },
+  {
+   "es": "enviar",
+   "en": "to send"
+  },
+  {
+   "es": "devolver",
+   "en": "to return (something)"
+  },
+  {
+   "es": "ofrecer",
+   "en": "to offer"
+  },
+  {
+   "es": "ayer",
+   "en": "yesterday"
+  },
+  {
+   "es": "anteayer",
+   "en": "the day before yesterday"
+  },
+  {
+   "es": "anoche",
+   "en": "last night"
+  },
+  {
+   "es": "la semana pasada",
+   "en": "last week"
+  },
+  {
+   "es": "el fin de semana pasado",
+   "en": "last weekend"
+  },
+  {
+   "es": "el año pasado",
+   "en": "last year"
+  },
+  {
+   "es": "hace dos días",
+   "en": "two days ago"
+  },
+  {
+   "es": "ya",
+   "en": "already"
+  },
+  {
+   "es": "todavía no",
+   "en": "not yet"
+  },
+  {
+   "es": "por fin",
+   "en": "finally"
+  },
+  {
+   "es": "de repente",
+   "en": "suddenly"
+  },
+  {
+   "es": "entonces",
+   "en": "then"
+  },
+  {
+   "es": "aquí",
+   "en": "here"
+  },
+  {
+   "es": "ahí",
+   "en": "there (near you)"
+  },
+  {
+   "es": "allí",
+   "en": "over there"
+  }
+ ],
+ "notes": [
+  {
+   "h": "Preterite: what it is for",
+   "b": "The preterite tells about actions that were started and finished at a specific time in the past.\nAyer compré una chaqueta. Anoche comimos en casa.\nWords that often go with it: ayer, anteayer, anoche, la semana pasada, el año pasado, hace dos días, por fin, de repente, entonces."
+  },
+  {
+   "h": "Preterite: regular endings",
+   "b": "Drop -ar, -er or -ir, then add the ending.\n- -ar verbs: -é, -aste, -ó, -amos, -aron (hablar: hablé, hablaste, habló, hablamos, hablaron)\n- -er and -ir verbs: -í, -iste, -ió, -imos, -ieron (comer: comí, comiste, comió, comimos, comieron)\nThe yo and él/ella/Ud. forms need the written accent. Nosotros forms of -ar and -ir verbs look the same in the present and the preterite; context tells you which one it is.\nStem-changing -ar and -er verbs do NOT change in the preterite (pensar: pensé, pensaste, pensó)."
+  },
+  {
+   "h": "Preterite: spelling changes in yo",
+   "b": "To keep the sound, the yo form of verbs ending in -car, -gar and -zar changes spelling.\n- c → qu: buscar → busqué, sacar → saqué\n- g → gu: pagar → pagué, llegar → llegué, jugar → jugué\n- z → c: empezar → empecé\nAll other forms are regular.\nLeer, creer and oír: the i between two vowels becomes y in ellos and él/ella: leyó, leyeron. The tú and nosotros forms take an accent: leíste, leímos."
+  },
+  {
+   "h": "Preterite: ser and ir",
+   "b": "Ser and ir have exactly the same preterite forms: fui, fuiste, fue, fuimos, fueron. Context tells you the meaning.\nFue una oferta excelente. (It was...)\nFuimos al centro comercial. (We went...)"
+  },
+  {
+   "h": "Preterite: irregular stems",
+   "b": "These verbs have an irregular stem and use one set of endings with no accents: -e, -iste, -o, -imos, -ieron.\n- tener → tuv-: tuve\n- estar → estuv-: estuve\n- poder → pud-: pude\n- poner → pus-: puse\n- saber → sup-: supe\n- querer → quis-: quise\n- venir → vin-: vine\n- hacer → hic-: hice, hiciste, hizo (c → z before o), hicimos, hicieron\n- decir → dij-: dije, dijiste, dijo, dijimos, dijeron\n- traer → traj-: traje, trajiste, trajo, trajimos, trajeron\n- conducir → conduj-: conduje\nIf the stem ends in j, the ellos ending is -eron (dijeron, trajeron), not -ieron.\nDar and ver take regular -er/-ir endings without accents: di, diste, dio, dimos, dieron and vi, viste, vio, vimos, vieron."
+  },
+  {
+   "h": "Preterite: stem changes in -ir verbs",
+   "b": "-ir verbs that change their stem in the present also change in the preterite, but ONLY in the él/ella/Ud. and ellos/ellas/Uds. forms.\n- e → i: pedir → pidió, pidieron; servir, repetir, seguir, vestirse\n- o → u: dormir → durmió, durmieron; morir → murió, murieron\n- preferir and sentir: e → i (prefirió, prefirieron; sintió, sintieron)\nYo, tú and nosotros stay regular: pedí, pediste, pedimos."
+  },
+  {
+   "h": "Indirect object pronouns: forms",
+   "b": "The indirect object tells TO WHOM or FOR WHOM something is done.\n- me (to/for me)\n- te (to/for you, informal)\n- le (to/for him, her, you formal)\n- nos (to/for us)\n- les (to/for them, you all)\nQuestion to ask: Who receives the thing? In Le di el regalo a mi madre, mi madre receives the gift, so the pronoun is le."
+  },
+  {
+   "h": "Indirect object pronouns: placement",
+   "b": "Put the pronoun before the conjugated verb: Ella me mostró la chaqueta.\nWith an infinitive or a gerund you can put it before the whole verb phrase or attach it to the end: Voy a comprarte un regalo. = Te voy a comprar un regalo.\nIn a negative sentence, no goes first: No les presté dinero.\nUse the pronoun even when the person is named: Le escribí una carta a Ana. The extra a + name or a + pronoun clarifies or adds emphasis: Le di el regalo a ella. A mí me gusta."
+  },
+  {
+   "h": "Indirect objects with gustar and similar verbs",
+   "b": "Gustar works backwards: the thing liked is the subject, and the person is the indirect object.\n- Me gusta la camisa. (singular thing or infinitive)\n- Me gustan las botas. (plural thing)\n- A Ana le gustan los zapatos.\nOther verbs that work this way: encantar, importar, interesar, faltar, quedar (to fit), costar with prices: Me cuesta veinte dólares.\nMany verbs of giving, saying and showing take indirect objects: dar, decir, regalar, mostrar, prestar, enviar, ofrecer, escribir, pedir, devolver."
+  },
+  {
+   "h": "Demonstrative adjectives",
+   "b": "Demonstrative adjectives point out a noun. They go before the noun and agree with it in gender and number.\n- este, esta, estos, estas = this, these (near the speaker; aquí)\n- ese, esa, esos, esas = that, those (near the listener, or farther away; ahí)\n- aquel, aquella, aquellos, aquellas = that, those over there (far from both; allí)\nEste abrigo es caro. Esas botas son baratas. Aquellos pantalones están en oferta.\nRepeat the demonstrative before each noun: esta camisa y esta falda."
+  },
+  {
+   "h": "Demonstrative pronouns",
+   "b": "A demonstrative pronoun replaces the noun and has the same form as the adjective: Me gusta este sombrero, pero prefiero ese. Quiero estas botas, no aquellas.\nThe pronoun still agrees with the noun it replaces (la chaqueta → esta, esa, aquella).\nThe accent (éste, ése, aquél) used to be required but is no longer needed. Your teacher may still use it, so accept either.\nNeuter forms: esto, eso, aquello mean this, that, that over there for an idea or something you cannot name. They never change and are never used with a noun. ¿Qué es esto? Eso es increíble."
+  },
+  {
+   "h": "Putting it together",
+   "b": "You can use all three ideas in one sentence.\nAyer le compré esta chaqueta a mi hermano. (preterite + indirect object + demonstrative)\nEl vendedor nos mostró aquellos zapatos, pero no nos gustaron. (preterite + indirect object + demonstrative)\nTip: find the verb and its tense first, then ask who receives the action, then check what is being pointed to."
+  }
+ ],
+ "verbs": [
+  {
+   "t": "preterite",
+   "inf": "hablar"
+  },
+  {
+   "t": "preterite",
+   "inf": "comprar"
+  },
+  {
+   "t": "preterite",
+   "inf": "comer"
+  },
+  {
+   "t": "preterite",
+   "inf": "escribir"
+  },
+  {
+   "t": "preterite",
+   "inf": "abrir"
+  },
+  {
+   "t": "preterite",
+   "inf": "salir"
+  },
+  {
+   "t": "preterite",
+   "inf": "buscar"
+  },
+  {
+   "t": "preterite",
+   "inf": "pagar"
+  },
+  {
+   "t": "preterite",
+   "inf": "empezar"
+  },
+  {
+   "t": "preterite",
+   "inf": "leer"
+  },
+  {
+   "t": "preterite",
+   "inf": "creer"
+  },
+  {
+   "t": "preterite",
+   "inf": "ser"
+  },
+  {
+   "t": "preterite",
+   "inf": "ir"
+  },
+  {
+   "t": "preterite",
+   "inf": "hacer"
+  },
+  {
+   "t": "preterite",
+   "inf": "tener"
+  },
+  {
+   "t": "preterite",
+   "inf": "estar"
+  },
+  {
+   "t": "preterite",
+   "inf": "poder"
+  },
+  {
+   "t": "preterite",
+   "inf": "poner"
+  },
+  {
+   "t": "preterite",
+   "inf": "venir"
+  },
+  {
+   "t": "preterite",
+   "inf": "decir"
+  },
+  {
+   "t": "preterite",
+   "inf": "traer"
+  },
+  {
+   "t": "preterite",
+   "inf": "dar"
+  },
+  {
+   "t": "preterite",
+   "inf": "ver"
+  },
+  {
+   "t": "preterite",
+   "inf": "pedir"
+  },
+  {
+   "t": "preterite",
+   "inf": "dormir"
+  },
+  {
+   "t": "preterite",
+   "inf": "preferir"
+  },
+  {
+   "t": "preterite",
+   "inf": "servir"
+  },
+  {
+   "t": "preterite",
+   "inf": "regalar",
+   "en": "to give (as a gift)",
+   "forms": [
+    "regalé",
+    "regalaste",
+    "regaló",
+    "regalamos",
+    "regalaron"
+   ]
+  },
+  {
+   "t": "preterite",
+   "inf": "mostrar",
+   "en": "to show",
+   "forms": [
+    "mostré",
+    "mostraste",
+    "mostró",
+    "mostramos",
+    "mostraron"
+   ]
+  },
+  {
+   "t": "preterite",
+   "inf": "prestar",
+   "en": "to lend",
+   "forms": [
+    "presté",
+    "prestaste",
+    "prestó",
+    "prestamos",
+    "prestaron"
+   ]
+  },
+  {
+   "t": "preterite",
+   "inf": "enviar",
+   "en": "to send",
+   "forms": [
+    "envié",
+    "enviaste",
+    "envió",
+    "enviamos",
+    "enviaron"
+   ]
+  },
+  {
+   "t": "preterite",
+   "inf": "ofrecer",
+   "en": "to offer",
+   "forms": [
+    "ofrecí",
+    "ofreciste",
+    "ofreció",
+    "ofrecimos",
+    "ofrecieron"
+   ]
+  },
+  {
+   "t": "preterite",
+   "inf": "devolver",
+   "en": "to return (something)",
+   "forms": [
+    "devolví",
+    "devolviste",
+    "devolvió",
+    "devolvimos",
+    "devolvieron"
+   ]
+  },
+  {
+   "t": "preterite",
+   "inf": "gastar",
+   "en": "to spend",
+   "forms": [
+    "gasté",
+    "gastaste",
+    "gastó",
+    "gastamos",
+    "gastaron"
+   ]
+  },
+  {
+   "t": "preterite",
+   "inf": "ahorrar",
+   "en": "to save",
+   "forms": [
+    "ahorré",
+    "ahorraste",
+    "ahorró",
+    "ahorramos",
+    "ahorraron"
+   ]
+  }
+ ],
+ "sentences": [
+  {
+   "s": "Ayer yo ____ (comprar) una camisa nueva.",
+   "a": "compré",
+   "t": "preterite",
+   "why": "Regular -ar, yo: -é with an accent."
+  },
+  {
+   "s": "Ana ____ (comer) en el centro comercial anoche.",
+   "a": "comió",
+   "t": "preterite",
+   "why": "Regular -er, ella: -ió."
+  },
+  {
+   "s": "Nosotros ____ (escribir) una carta a mi abuela.",
+   "a": "escribimos",
+   "t": "preterite",
+   "why": "Nosotros: -imos for -ir verbs."
+  },
+  {
+   "s": "Ustedes ____ (abrir) la tienda a las nueve.",
+   "a": "abrieron",
+   "t": "preterite",
+   "why": "Ustedes uses the ellos form: -ieron."
+  },
+  {
+   "s": "Tú ____ (aprender) mucho la semana pasada.",
+   "a": "aprendiste",
+   "t": "preterite",
+   "why": "Tú: -iste."
+  },
+  {
+   "s": "Yo ____ (buscar) unos zapatos baratos.",
+   "a": "busqué",
+   "t": "preterite",
+   "why": "-car verbs change c to qu in the yo form."
+  },
+  {
+   "s": "Yo ____ (pagar) con tarjeta de crédito.",
+   "a": "pagué",
+   "t": "preterite",
+   "why": "-gar verbs change g to gu in the yo form."
+  },
+  {
+   "s": "El año pasado yo ____ (empezar) a ahorrar dinero.",
+   "a": "empecé",
+   "t": "preterite",
+   "why": "-zar verbs change z to c in the yo form."
+  },
+  {
+   "s": "Ella ____ (leer) el precio en la etiqueta.",
+   "a": "leyó",
+   "t": "preterite",
+   "why": "i between vowels becomes y: leyó."
+  },
+  {
+   "s": "Ellos ____ (creer) la historia del vendedor.",
+   "a": "creyeron",
+   "t": "preterite",
+   "why": "i between vowels becomes y: creyeron."
+  },
+  {
+   "s": "Mi madre y yo ____ (ir) al mercado el sábado.",
+   "a": "fuimos",
+   "t": "preterite",
+   "why": "Ir in the preterite: fuimos."
+  },
+  {
+   "s": "¡Tú ____ (ser) muy generoso con tus amigos!",
+   "a": "fuiste",
+   "t": "preterite",
+   "why": "Ser and ir share forms; here it means 'were'."
+  },
+  {
+   "s": "¿Qué ____ (hacer) tú anoche?",
+   "a": "hiciste",
+   "t": "preterite",
+   "why": "Hacer has the stem hic- in the preterite."
+  },
+  {
+   "s": "Ellos ____ (tener) que devolver la chaqueta.",
+   "a": "tuvieron",
+   "t": "preterite",
+   "why": "Tener has the stem tuv-; ellos ends in -ieron."
+  },
+  {
+   "s": "Yo ____ (poder) encontrar una talla grande.",
+   "a": "pude",
+   "t": "preterite",
+   "why": "Poder has the stem pud- and no accent."
+  },
+  {
+   "s": "Nosotros ____ (venir) a la tienda temprano.",
+   "a": "vinimos",
+   "t": "preterite",
+   "why": "Venir has the stem vin-."
+  },
+  {
+   "s": "Ella me ____ (decir) la verdad sobre el precio.",
+   "a": "dijo",
+   "t": "preterite",
+   "why": "Decir has the stem dij-; ella ends in -o."
+  },
+  {
+   "s": "Ellos ____ (decir) que la oferta era buena.",
+   "a": "dijeron",
+   "t": "preterite",
+   "why": "After j, the ellos ending is -eron, not -ieron."
+  },
+  {
+   "s": "Yo ____ (traer) dinero en efectivo.",
+   "a": "traje",
+   "t": "preterite",
+   "why": "Traer has the stem traj-."
+  },
+  {
+   "s": "Yo le ____ (dar) un regalo a mi hermano.",
+   "a": "di",
+   "t": "preterite",
+   "why": "Dar uses -er/-ir endings with no accent: di."
+  },
+  {
+   "s": "Ayer ellos ____ (ver) una oferta increíble.",
+   "a": "vieron",
+   "t": "preterite",
+   "why": "Ver: vi, viste, vio, vimos, vieron."
+  },
+  {
+   "s": "El dependiente ____ (pedir) mi nombre.",
+   "a": "pidió",
+   "t": "preterite",
+   "why": "-ir stem change e→i in the él/ella form."
+  },
+  {
+   "s": "Los clientes ____ (preferir) las botas negras.",
+   "a": "prefirieron",
+   "t": "preterite",
+   "why": "-ir stem change e→i in the ellos form."
+  },
+  {
+   "s": "Anoche el niño ____ (dormir) diez horas.",
+   "a": "durmió",
+   "t": "preterite",
+   "why": "-ir stem change o→u in the él/ella form."
+  },
+  {
+   "s": "Yo ____ (poner) los zapatos en la bolsa.",
+   "a": "puse",
+   "t": "preterite",
+   "why": "Poner has the stem pus-."
+  },
+  {
+   "s": "Ellos ____ (estar) en la tienda dos horas.",
+   "a": "estuvieron",
+   "t": "preterite",
+   "why": "Estar has the stem estuv-."
+  },
+  {
+   "s": "Ayer yo le ____ (regalar) esta camisa a mi padre.",
+   "a": "regalé",
+   "t": "preterite",
+   "why": "Regular -ar, yo: -é. Le is the indirect object (to my father)."
+  },
+  {
+   "s": "A Ana ____ (to her) gustan las botas.",
+   "a": "le",
+   "t": "",
+   "why": "Le = to her."
+  },
+  {
+   "s": "Yo ____ (to you, informal) compré un regalo.",
+   "a": "te",
+   "t": "",
+   "why": "Te = to/for you (tú)."
+  },
+  {
+   "s": "El vendedor ____ (to us) mostró la chaqueta.",
+   "a": "nos",
+   "t": "",
+   "why": "Nos = to/for us."
+  },
+  {
+   "s": "Mis padres ____ (to me) dieron dinero.",
+   "a": "me",
+   "t": "",
+   "why": "Me = to/for me."
+  },
+  {
+   "s": "Ella ____ (to them) escribió una carta.",
+   "a": "les",
+   "t": "",
+   "why": "Les = to/for them."
+  },
+  {
+   "s": "¿____ (to you, informal) prestó tu amigo el dinero?",
+   "a": "te",
+   "t": "",
+   "why": "Te = to you (tú)."
+  },
+  {
+   "s": "Nosotros ____ (to Pedro) enviamos el paquete.",
+   "a": "le",
+   "t": "",
+   "why": "Pedro is one person, so le."
+  },
+  {
+   "s": "____ (this, masculine) abrigo es caro.",
+   "a": "este",
+   "t": "",
+   "why": "Abrigo is masculine singular: este."
+  },
+  {
+   "s": "____ (this, feminine) falda es bonita.",
+   "a": "esta",
+   "t": "",
+   "why": "Falda is feminine singular: esta."
+  },
+  {
+   "s": "____ (these, masculine) zapatos son baratos.",
+   "a": "estos",
+   "t": "",
+   "why": "Zapatos is masculine plural: estos."
+  },
+  {
+   "s": "____ (those, near you, feminine) botas son baratas.",
+   "a": "esas",
+   "t": "",
+   "why": "Botas is feminine plural; near the listener: esas."
+  },
+  {
+   "s": "____ (that over there, masculine) sombrero es feo.",
+   "a": "aquel",
+   "t": "",
+   "why": "Far from both people: aquel."
+  },
+  {
+   "s": "Me gusta esta camisa, pero prefiero ____ (that one, near you, feminine).",
+   "a": "esa",
+   "t": "",
+   "why": "Pronoun for camisa: esa."
+  },
+  {
+   "s": "¿Cuánto cuestan ____ (those over there, masculine) pantalones?",
+   "a": "aquellos",
+   "t": "",
+   "why": "Pantalones is masculine plural: aquellos."
+  },
+  {
+   "s": "Quiero estas botas, no ____ (those over there, feminine).",
+   "a": "aquellas",
+   "t": "",
+   "why": "Replaces botas, far away: aquellas."
+  }
+ ]
+}
